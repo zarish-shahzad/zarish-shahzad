@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Zarish%20Shahzad&fontSize=45&fontColor=FF4FA0&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Developer&descAlignY=58&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF4FA0,100:0D0D0D&height=200&section=header&text=Zarish%20Shahzad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Developer&descAlignY=58&descColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ba.gif" width="320">
 </p>
 
 <p align="center">
@@ -96,21 +100,21 @@ Hi, I'm an **AI developer** driven by a passion for architecting practical, inte
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=zarish-shahzad&hide_border=true&include_all_commits=false&count_private=false&title_color=FF4FA0&text_color=ffffff&icon_color=FF4FA0&bg_color=0D0D0D" />
+  <img src="https://github-readme-stats.shion.dev/api?username=zarish-shahzad&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zarish-shahzad&hide_border=true&background=0D0D0D&ring=FF4FA0&fire=FF4FA0&currStreakLabel=FF4FA0&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
+  <img src="https://streak-stats.demolab.com/?user=zarish-shahzad&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zarish-shahzad&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=FF4FA0&text_color=ffffff&bg_color=0D0D0D" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zarish-shahzad&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarish-shahzad&hide_border=true&bg_color=0D0D0D&color=FF4FA0&line=FF4FA0&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarish-shahzad&theme=react-dark&hide_border=true" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -126,7 +130,7 @@ Hi, I'm an **AI developer** driven by a passion for architecting practical, inte
 > "When something is important enough, you do it even if the odds are not in your favor." — **Elon Musk**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF4FA0,100:0D0D0D&height=120&section=footer" />
 </p>
 
 <p align="center"><i>Thanks for stopping by — always open to interesting collaborations and AI/ML conversations</i></p>
