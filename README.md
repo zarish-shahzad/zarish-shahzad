@@ -1,19 +1,31 @@
-<h1 align="center">Hi 👋, I'm Zarish Shahzad</h1>
-<h3 align="center">Where algorithms meet ambition ✨</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Developer;Computer+Vision+Enthusiast;Learning+Flutter+App+Development;Turning+Abstract+Ideas+Into+Real+Code" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Zarish%20✨&fontSize=42&fontColor=fff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ba.gif" width="320">
 </p>
 
----
+<h3 align="center">🌸 Where algorithms meet ambition ✨</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E066FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Developer+%F0%9F%92%BB;Computer+Vision+Enthusiast+%F0%9F%94%AE;Learning+Flutter+App+Development+%F0%9F%92%9C;Turning+Ideas+Into+Real+Code+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zarish-shahzad-67ba463a4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=zarish-shahzad&label=Profile%20Views&color=E066FF&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+</p>
 
 ### 💫 About Me
 
-Hi, I'm an **AI developer** driven by a passion for architecting practical, intelligent solutions through **machine learning** and **computer vision**. I thrive on transforming abstract concepts into functional, real-world code, and I'm perpetually refining my craft through new tools and emerging technologies.
+Hi, I'm an **AI developer** driven by a passion for architecting practical, intelligent solutions through **machine learning** and **computer vision**. I thrive on transforming abstract concepts into functional, real-world code, and I'm perpetually refining my craft through new tools and emerging technologies. 🌷
 
 - 🌱 Currently learning: **Flutter App Development**
 - 🎯 Goal: Becoming an **AI Engineer** building intelligent, real-world products
@@ -22,17 +34,9 @@ Hi, I'm an **AI developer** driven by a passion for architecting practical, inte
 
 `C` `C++` `Java` `Python` `HTML` `SQL` `Computer Vision` `YOLO` `Image Classification` `Data Analysis` `OOP` `Git/GitHub`
 
-<br>
-
-### 🌐 Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/zarish-shahzad-67ba463a4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 </p>
-
-<br>
 
 ### 💻 Tech Stack
 
@@ -60,7 +64,9 @@ Hi, I'm an **AI developer** driven by a passion for architecting practical, inte
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
-<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+</p>
 
 ### 🚀 Featured Projects
 
@@ -97,38 +103,46 @@ Hi, I'm an **AI developer** driven by a passion for architecting practical, inte
   </tr>
 </table>
 
-<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+</p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=zarish-shahzad&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.shion.dev/api?username=zarish-shahzad&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zarish-shahzad&theme=onedark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=zarish-shahzad&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zarish-shahzad&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zarish-shahzad&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-<br>
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarish-shahzad&theme=redical&hide_border=true" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zarish-shahzad/zarish-shahzad/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+</p>
 
 ### ✍️ Quote I Live By
 
 > "When something is important enough, you do it even if the odds are not in your favor." — **Elon Musk**
 
-<br>
-
----
-
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=zarish-shahzad&icon=0&color=0" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </p>
 
-<p align="center"><i>Thanks for stopping by — always open to interesting collaborations and AI/ML conversations 🚀</i></p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><i>Thanks for stopping by — always open to interesting collaborations and AI/ML conversations 🌸✨</i></p>
