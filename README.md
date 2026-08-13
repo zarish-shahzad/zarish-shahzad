@@ -3,14 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ETxHWlLcE5KHxLSl8G/giphy.gif" width="280">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF4FA0&center=true&vCenter=true&width=650&lines=Where+algorithms+meet+ambition;Computer+Vision+%7C+Machine+Learning;Learning+Flutter+App+Development" alt="Typing SVG" />
 </p>
 
@@ -101,9 +93,25 @@ Hi, I'm an **AI developer** driven by a passion for architecting practical, inte
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
-</p>
+### 🏆 Achievements
+
+- 🥇 Academic Excellence Award for outstanding performance
+- 🎓 Merit Scholarship recipient
+- 📜 Multiple certificates of academic and professional distinction
+
+---
+
+### 🎯 Core Competencies
+
+`Problem Solving` `Project Management` `Leadership` `Teamwork` `Data Structures` `Software Development Fundamentals`
+
+---
+
+### 🌍 Languages I Speak
+
+**English** — Proficient &nbsp;|&nbsp; **Urdu** — Native &nbsp;|&nbsp; **Hindi** — Fair &nbsp;|&nbsp; **Turkish** — Beginner
+
+---
 
 ### 📊 GitHub Stats
 
@@ -117,6 +125,12 @@ Hi, I'm an **AI developer** driven by a passion for architecting practical, inte
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zarish-shahzad&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zarish-shahzad&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ### 📈 Activity Graph
@@ -137,8 +151,12 @@ Hi, I'm an **AI developer** driven by a passion for architecting practical, inte
 
 > "When something is important enough, you do it even if the odds are not in your favor." — **Elon Musk**
 
+---
+
+### 🤝 Let's Connect
+
+I'm always open to interesting collaborations, AI/ML discussions, or just talking tech — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/zarish-shahzad-67ba463a4).
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF4FA0,100:0D0D0D&height=120&section=footer" />
 </p>
-
-<p align="center"><i>Thanks for stopping by — always open to interesting collaborations and AI/ML conversations</i></p>
