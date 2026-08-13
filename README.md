@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="320">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF4FA0&center=true&vCenter=true&width=650&lines=Where+algorithms+meet+ambition;Computer+Vision+%7C+Machine+Learning;Learning+Flutter+App+Development" alt="Typing SVG" />
 </p>
 
@@ -125,12 +129,6 @@ Hi, I'm an **AI developer** driven by a passion for architecting practical, inte
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zarish-shahzad&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zarish-shahzad&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ### 📈 Activity Graph
