@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ba.gif" width="320">
+  <img src="https://media.giphy.com/media/ETxHWlLcE5KHxLSl8G/giphy.gif" width="280">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 </p>
 
 <p align="center">
@@ -36,27 +40,27 @@ Hi, I'm an **AI developer** driven by a passion for architecting practical, inte
 
 **Languages**
 
-![C](https://img.shields.io/badge/c-000000.svg?style=flat-square&logo=c&logoColor=FF4FA0)
-![C++](https://img.shields.io/badge/c++-000000.svg?style=flat-square&logo=c%2B%2B&logoColor=FF4FA0)
-![Java](https://img.shields.io/badge/java-000000.svg?style=flat-square&logo=openjdk&logoColor=FF4FA0)
-![Python](https://img.shields.io/badge/python-000000?style=flat-square&logo=python&logoColor=FF4FA0)
-![HTML5](https://img.shields.io/badge/html5-000000.svg?style=flat-square&logo=html5&logoColor=FF4FA0)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-000000?style=flat-square&logo=microsoft%20sql%20server&logoColor=FF4FA0)
+![C](https://img.shields.io/badge/c-000000.svg?style=for-the-badge&logo=c&logoColor=FF4FA0)
+![C++](https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=FF4FA0)
+![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=FF4FA0)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=FF4FA0)
+![HTML5](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=FF4FA0)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-000000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FF4FA0)
 
 **AI / ML & Data**
 
-![NumPy](https://img.shields.io/badge/numpy-000000.svg?style=flat-square&logo=numpy&logoColor=FF4FA0)
-![Pandas](https://img.shields.io/badge/pandas-000000.svg?style=flat-square&logo=pandas&logoColor=FF4FA0)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000.svg?style=flat-square&logo=TensorFlow&logoColor=FF4FA0)
-![Anaconda](https://img.shields.io/badge/Anaconda-000000.svg?style=flat-square&logo=anaconda&logoColor=FF4FA0)
+![NumPy](https://img.shields.io/badge/numpy-000000.svg?style=for-the-badge&logo=numpy&logoColor=FF4FA0)
+![Pandas](https://img.shields.io/badge/pandas-000000.svg?style=for-the-badge&logo=pandas&logoColor=FF4FA0)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000.svg?style=for-the-badge&logo=TensorFlow&logoColor=FF4FA0)
+![Anaconda](https://img.shields.io/badge/Anaconda-000000.svg?style=for-the-badge&logo=anaconda&logoColor=FF4FA0)
 
 **Tools & Platforms**
 
-![Flutter](https://img.shields.io/badge/Flutter-000000.svg?style=flat-square&logo=Flutter&logoColor=FF4FA0)
-![Azure](https://img.shields.io/badge/azure-000000.svg?style=flat-square&logo=microsoftazure&logoColor=FF4FA0)
-![Canva](https://img.shields.io/badge/Canva-000000.svg?style=flat-square&logo=Canva&logoColor=FF4FA0)
-![GitHub](https://img.shields.io/badge/github-000000.svg?style=flat-square&logo=github&logoColor=FF4FA0)
-![Git](https://img.shields.io/badge/git-000000.svg?style=flat-square&logo=git&logoColor=FF4FA0)
+![Flutter](https://img.shields.io/badge/Flutter-000000.svg?style=for-the-badge&logo=Flutter&logoColor=FF4FA0)
+![Azure](https://img.shields.io/badge/azure-000000.svg?style=for-the-badge&logo=microsoftazure&logoColor=FF4FA0)
+![Canva](https://img.shields.io/badge/Canva-000000.svg?style=for-the-badge&logo=Canva&logoColor=FF4FA0)
+![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=FF4FA0)
+![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=FF4FA0)
 
 ---
 
@@ -96,6 +100,10 @@ Hi, I'm an **AI developer** driven by a passion for architecting practical, inte
 </table>
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+</p>
 
 ### 📊 GitHub Stats
 
